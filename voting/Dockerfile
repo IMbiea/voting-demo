@@ -1,4 +1,3 @@
 FROM fermayo/flask
-MAINTAINER bob@billybob.com
-
+MAINTAINER bobby@billybob.com
 ADD . /app
